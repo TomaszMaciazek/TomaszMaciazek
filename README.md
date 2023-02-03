@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomaszMaciazek
 - 👀 I’m interested in Programming and History (especially ancient history)
-- 🌱 I’m currently learning Angular nad Asp.Net Core
+- 🌱 I’m currently learning RabbitMQ and microservices architecture
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : tommac.opole@gmail.com
 
