@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @TomaszMaciazek
-- 👀 I’m interested in Programming and history (especially ancient history).
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Programming, good books and history (especially ancient history).
 - 📫 How to reach me : tomasz.maciazek98@gmail.com
 
-I am .NET Developer with over 4 years of commercial experience in developing
+I am .NET Developer with over 5 years of commercial experience in developing
 and maintaining web applications using .NET technologies. Proficient in
 C#, ASP.NET, Angular, SQL, troubleshooting simple and complex issues,
 optimizing code performance and implementing new features based on user
